@@ -1,1 +1,0 @@
-select id, name, Marketo_Sync__c, CreatedDate from Contact where AccountId = '0010D00000c7JngQAE'
